@@ -1,6 +1,5 @@
 ### :man_with_gua_pi_mao:About me
 
-- Majored Software Engineer at Ajou Univ.
 - Currently studying Java, SpringBoot
 
 ### Skills
