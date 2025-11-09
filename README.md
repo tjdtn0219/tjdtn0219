@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-[JANGSEONGSU_Portfolio.pdf]()
+[JANGSEONGSU_Portfolio.pdf](https://github.com/tjdtn0219/tjdtn0219/blob/main/Portfolio.pdf)
