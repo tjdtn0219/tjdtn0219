@@ -21,5 +21,5 @@
 
 ---
 ### Porfolio
-[202509_Portfolio](tjdtn0219/Portfolio.pdf)
+[202509_Portfolio](Portfolio.pdf)
 <a href="https://github.com/tjdtn0219/tjdtn0219/blob/main/Portfolio.pdf"> 2025_09_Portfolio.pdf </a>
