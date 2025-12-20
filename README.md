@@ -20,5 +20,3 @@
 </div>
 
 ---
-### Porfolio
-[202509_Portfolio.pdf](https://github.com/tjdtn0219/tjdtn0219/blob/main/Portfolio.pdf?raw=True)
